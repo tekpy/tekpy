@@ -1,5 +1,5 @@
 # introduction
 
-Наша безупречная репутация – результат осведомленности о рынке блокчейна и партнерства, мы создаем инновационные решения для себя и наших партнеров.
+волновые исследования и их последствия, некоммерческие, только образовательные
 
-<img src="https://github.com/tekpy/tekpy/blob/main/waves.png"><img src="https://github.com/tekpy/tekpy/blob/main/west.png"><img src="https://github.com/tekpy/tekpy/blob/main/tn.png"><img src="https://github.com/tekpy/tekpy/blob/main/dcc.png"><img src="https://github.com/tekpy/tekpy/blob/main/aint.png">
+<img src="https://github.com/tekpy/tekpy/blob/main/waves.png" width="100" height="100"><img src="https://github.com/tekpy/tekpy/blob/main/west.png" width="100" height="100"><img src="https://github.com/tekpy/tekpy/blob/main/tn.png" width="100" height="100"><img src="https://github.com/tekpy/tekpy/blob/main/dcc.png" width="100" height="100"><img src="https://github.com/tekpy/tekpy/blob/main/aint.png" width="100" height="100">
